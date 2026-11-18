@@ -1,0 +1,6 @@
+bin/
+obj/
+data/
+output/
+native/lib/
+.DS_Store
